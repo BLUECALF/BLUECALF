@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
 - **BSc Applied Computing** at **KCA University, Kenya** (Graduation Pending).
 - Learned a wide range of technologies, including:
   - **Programming Languages:**  
-      ![](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
+      ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
       ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
       ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-lightgrey?style=flat-square&logo=dotnet&logoColor=white)  
       ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&logoColor=white)  
@@ -41,10 +41,7 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
 
 ### **Flutter Developer at Interintel Technologies**
 *2023 - August 2024*
-- **NSSF Staff Benevolent App:**
-  - Played a key role in the development of this app, completing approximately **80%** of the mobile application work.
-  - Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.nsbf_mobile.app&hl=en).
-- Other collaborative projects:
+- Collaborative projects:
   - **NikoBizz** and **MiPay** mobile apps.
   - Focused on creating secure, user-friendly mobile applications.
 
@@ -53,33 +50,36 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
 - Released for both Android and iOS.
 - Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.privpay.app&hl=en).
 
+- **NSSF Staff Benevolent App:**
+  - Played a key role in the development of this app, completing approximately **70%** of the mobile application work.
+  - Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.nsbf_mobile.app&hl=en).
 ---
 
 ## 💻 **Skills**
 
 ### **Experienced - Languages & Frameworks:**
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Elixir](https://img.shields.io/badge/-Elixir-purple?style=for-the-badge&logo=elixir&logoColor=white)
-![Frappe](https://img.shields.io/badge/-Frappe-orange?style=for-the-badge&logo=frappe&logoColor=white)
 
 ### **Basic - Languages & Frameworks:**
-![](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Frappe](https://img.shields.io/badge/-Frappe-orange?style=for-the-badge&logo=frappe&logoColor=white)
 
 ### **Tools & IDEs:**
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)
-![NetBeans](https://img.shields.io/badge/-NetBeans-blue?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-blue?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
 ## 🌐 **Find Me Online**
 
-- **GitHub:** [BLUECALF](https://github.com/BLUECALF)
-- **LinkedIn:** [Leonard Kiptala](https://www.linkedin.com/in/leonard-kiptala-b08099261/)
-
+- 📂 **GitHub:** [BLUECALF](https://github.com/BLUECALF)
+- 💬 **WhatsApp:** [Chat with me](https://wa.me/254741942765)
+- 📱 **Telegram:** [Message me](https://t.me/+254741942765)
 ---
 
 ## 📈 **GitHub Stats**
