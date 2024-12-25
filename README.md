@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
   - **BSc Applied Computing** at **KCA University, Kenya** (Graduation Pending).  
   - Learned a wide range of technologies, including:  
     ![Languages](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)  
-    ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)  
+    [C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)  
     ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)  
     ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)  
     ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)  
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
 
 - **Key Projects:**  
   1. **Hotel Management System:** Java Swing-based app built in NetBeans.  
-  2. **Matatu Management System:** Built using **Elixir Phoenix**, supporting real-time booking and package delivery.  
+  2. **Ride Booking System:** Built using **Elixir Phoenix**, supporting real-time booking and package delivery.  
      - [View the GitHub Repo](https://github.com/BLUECALF/mololine_ride_booking_app)  
      - [Watch the Demo](https://www.youtube.com/watch?v=lI7Wze_patE)  
   3. **Jangwa Run Game:** Early mobile game project showcasing passion for learning and experimentation.  
