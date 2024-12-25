@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
 - **BSc Applied Computing** at **KCA University, Kenya** (Graduation Pending).
 - Learned a wide range of technologies, including:
   - **Programming Languages:**  
-      ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
+      ![](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
       ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
       ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-lightgrey?style=flat-square&logo=dotnet&logoColor=white)  
       ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&logoColor=white)  
@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
 ![Frappe](https://img.shields.io/badge/-Frappe-orange?style=for-the-badge&logo=frappe&logoColor=white)
 
 ### **Basic - Languages & Frameworks:**
-![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
