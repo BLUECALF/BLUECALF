@@ -9,12 +9,23 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
 ### **Education:**
 - **BSc Applied Computing** at **KCA University, Kenya** (Graduation Pending).
 - Learned a wide range of technologies, including:
-  ![Languages](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white)
+  - **Programming Languages:**  
+      ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)  
+      ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
+      ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-lightgrey?style=flat-square&logo=dotnet&logoColor=white)  
+      ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&logoColor=white)  
+      ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)  
+      ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)  
+      ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
+      ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+      ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white)
+      
+    - **Web Development:**  
+      ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)  
+      ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)  
+    - **Embedded Systems:**  
+      ![Arduino](https://img.shields.io/badge/-Arduino-blue?style=flat-square&logo=arduino&logoColor=white)  
+    - **Computer Science Foundations:** Data Structures and Algorithms.
 
 ### **Key Projects:**
 1. **Hotel Management System:** Java Swing-based app built in NetBeans.
