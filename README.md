@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
   - **BSc Applied Computing** at **KCA University, Kenya** (Graduation Pending).  
   - Learned a wide range of technologies, including:  
     ![Languages](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)  
-    [C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)  
+    ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)  
     ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)  
     ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)  
     ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)  
