@@ -50,9 +50,10 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **mob
 - Released for both Android and iOS.
 - Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.privpay.app&hl=en).
 
-- **NSSF Staff Benevolent App:**
-  - Played a key role in the development of this app, completing approximately **70%** of the mobile application work.
-  - Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.nsbf_mobile.app&hl=en).
+### **NSSF Staff Benevolent App:**
+- Played a key role in the development of this app, completing approximately **70%** of the mobile application work.
+- Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.nsbf_mobile.app&hl=en).
+
 ---
 
 ## 💻 **Skills**
