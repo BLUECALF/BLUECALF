@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leonard Kiptala (aka **BLUECALF**)
+# 👋 Hi,
 
 Welcome to my GitHub profile! I’m a passionate developer specializing in **mobile app development**, with a strong foundation in **full-stack development** and a focus on building impactful applications.
 
